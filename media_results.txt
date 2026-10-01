@@ -1,0 +1,6 @@
+username	likes	content_type
+coo1guy	11	Photo
+hooper_990	864	Photo
+sarahyy	233	Photo
+bchu412	5349	Photo
+bchu412	3021	Photo
